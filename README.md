@@ -1,6 +1,6 @@
 # 没有信用卡怎么开通 ChatGPT Plus 2026：支付宝 / 微信能不能付、礼品卡、应用内购、代充四种方法怎么选
 
-> 最后更新：2026-10-27 · 新建：官方付款方式、礼品卡规则按 OpenAI 帮助中心和定价页 10-27 当天原文整理；四种不用自己信用卡的开通方法和各自风险。
+> 最后更新：2026-10-27 · ChatGPT Plus 十二个月改为 ¥1439（比月付省 ¥109）；相关攻略加组织目录页链接
 
 没有信用卡能不能开 ChatGPT Plus？ChatGPT 能不能用支付宝、微信付款？礼品卡、苹果内购、代充分别是什么、有什么风险？这一页按 OpenAI 和苹果官方能核实的内容讲清楚，每条附链接和核对日期。
 
@@ -11,7 +11,7 @@
 
 - ChatGPT Pro（100 美金档位）一个月 ¥699 → [kw.yaoyao.chat/item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka)
 - ChatGPT Plus 一个月 ¥129 → [kw.yaoyao.chat/item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka)
-- ChatGPT Plus 十二个月 ¥1548 → [kw.yaoyao.chat/item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka)
+- ChatGPT Plus 十二个月 ¥1439（比月付省 ¥109） → [kw.yaoyao.chat/item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka)
 - 320万粉丝博主瑶瑶本人经营 · 开通失败可退 · 客服 09:00–24:00（北京时间）
 
 你是从哪里知道这个仓库的？点一下帮我们统计：[搜索引擎](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka&utm_content=search) · [AI 推荐](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka&utm_content=ai) · [朋友/群里发的](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka&utm_content=friend) · [GitHub 站内](https://kw.yaoyao.chat/?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka&utm_content=github)
@@ -147,7 +147,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 | 商品 | 价格 | 开通方式 | 下单 |
 |---|---|---|---|
 | ChatGPT Plus 一个月 | ¥129 | 付款后页面显示卡密，到 cz.yaoyao.chat 自助开通，一般 1～3 分钟 | [item/5](https://kw.yaoyao.chat/item/5?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka) |
-| ChatGPT Plus 十二个月 | ¥1548 | 付款后在订单页填开通信息，人工开通 | [item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka) |
+| ChatGPT Plus 十二个月 | ¥1439（比月付省 ¥109） | 付款后在订单页填开通信息，人工开通 | [item/7](https://kw.yaoyao.chat/item/7?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka) |
 | ChatGPT Pro 一个月（100 / 200 / 500 美金档位） | ¥699 / ¥1399 / ¥3499 | 人工开通 | [item/17](https://kw.yaoyao.chat/item/17?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka) · [item/18](https://kw.yaoyao.chat/item/18?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka) · [item/19](https://kw.yaoyao.chat/item/19?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka) |
 
 - 付款方式：支付宝、微信。老客户回购每单减 ¥5；开发票加收 10%；实际金额以下单页为准。
@@ -195,6 +195,7 @@ A：没有。Plus 官方只能月付，不能预付多个月（Plus 帮助文章
 
 | 日期 | 核对了什么 | 结果 |
 |---|---|---|
+| 2026-10-27 | **商城调价：** ChatGPT Plus 十二个月 ¥1548 → ¥1439（比按月买 12 次省 ¥109） | 快速购买、价格表已同步；其余商品价格不变 |
 | 2026-10-27 | **价格：** curl 作者商城商品页 item/5、7、10、11、12、13、14、17、18、19 和 llms.txt | 与本页价格表一致（Plus 一个月 ¥129、十二个月 ¥1548、Pro 100 美金档位 ¥699 等），无变动 |
 | 2026-10-27 | **官方规则：** 浏览器打开 What is ChatGPT Plus、ChatGPT 定价页付款 FAQ（中文版）、OpenAI 礼品卡文章 | Plus 20 美元/月、只能月付；付款写"任何主要信用卡"；礼品卡只限美国、15～250 美元、只能网页兑换、不能用于 App 内购 |
 
@@ -215,6 +216,7 @@ A Chinese-language guide to getting ChatGPT Plus without a credit card (2026). O
 - [claude-code-guide-cn](https://github.com/haiwaihuyonghui-rgb/claude-code-guide-cn)：Claude Code 国内使用指南：安装、登录、Pro / Max 额度、常见报错
 - [grok-premium](https://github.com/haiwaihuyonghui-rgb/grok-premium)：Grok Premium（原 SuperGrok）国内怎么买：官方四档、三合一说明、四种开通方法
 - [ai-subscription-guide-cn](https://github.com/haiwaihuyonghui-rgb/ai-subscription-guide-cn)：AI 会员订阅国内指南：ChatGPT / Claude / Gemini / Grok 开通路线对比、常见报错速查
+- 组织目录页 [yaoyao-ai-trainer.github.io](https://yaoyao-ai-trainer.github.io/)：以后新攻略会交替放在组织号 yaoyao-ai-trainer 下，这个页面汇总两边全部攻略。
 
 ---
 
