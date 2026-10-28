@@ -166,7 +166,7 @@ OpenAI 公布了支持的国家和地区列表（[Supported countries and territ
 
 **客服：** 只找瑶瑶本人微信 **yao77380**（加不上加备用号 yym77288），客服时间 09:00–24:00（北京时间）；Plus 一个月卡密自助开通 24 小时可用。主动加你、自称"客服 / 助理"的不是我们；网址只有 www.yaoyao.chat、kw.yaoyao.chat、cz.yaoyao.chat 三个，见 [官方账号与防骗说明](https://www.yaoyao.chat/official.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka)。
 
-**关于作者：** 瑶瑶ai训练师是瑶瑶和丈夫共同运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka#jietu)）。
+**关于作者：** 瑶瑶ai训练师是瑶瑶运营的个人品牌（不以公司名义对外），2023 年 10 月开始做 AI 科普短视频，25 个万粉以上的主要账号合计 320万+ 粉丝（截至 2026-10-25，各账号相加，[账号 ID 和截图](https://kw.yaoyao.chat/guide/guanyu-yaoyao.html?utm_source=github&utm_medium=readme&utm_campaign=chatgpt-plus-wu-xinyongka#jietu)）。
 
 ## 常见问题
 
